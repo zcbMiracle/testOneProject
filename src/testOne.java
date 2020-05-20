@@ -18,6 +18,7 @@ public class testOne {
         integers.add(3);
         integers.add(4);
         integers.add(5);
+        integers.add(6);
         for (Integer i:
              integers) {
             if (i==2){
