@@ -28,6 +28,7 @@ public class testOne {
                 integers.remove(i);
             }
             System.out.println(integers.size());
+            System.out.println(integers.size());
         }
     }
 }
